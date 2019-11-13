@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include<time.h>
-/*Brought to you by ®©ola™*/
+/*Brought to you by Â®Â©olaâ„¢*/
 //Roen Ivan Ylagan EV1 LBYCP12
 int main(){
        
